@@ -1,0 +1,7 @@
+{
+  "name": "projeto_login_cypress",
+  "packageManager": "yarn@4.9.2",
+  "devDependencies": {
+    "cypress": "^15.14.2"
+  }
+}
