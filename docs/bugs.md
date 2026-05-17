@@ -28,7 +28,7 @@ Devem exibir mensagem genérica:
 "Your username or password is invalid!"
 
 EVIDÊNCIA
-![Bug 001 - senha inválido](../cypress/screenshots/login.cy.js/Login -- Segurança -- CT-003 - Deve exibir mensagem de erro padronizada, ao mandar senha incorreta (failed).png)
+![Bug 001 - senha inválido](../cypress/screenshots/login.cy.js/bug001.png)
 
 ---
 
@@ -62,4 +62,4 @@ Devem exibir mensagem genérica:
 "Your username or password is invalid!"
 
 EVIDÊNCIA
-![Bug 002 - username inválida](../cypress/screenshots/login.cy.js/Login -- Segurança -- CT-004 - Deve exibir mensagem de erro padronizada, ao mandar username incorreto (failed).png)
+![Bug 002 - username inválida](../cypress/screenshots/login.cy.js/bug002.png)

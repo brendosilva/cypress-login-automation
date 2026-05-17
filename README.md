@@ -1,14 +1,12 @@
----
-
 ## 🧪 Casos de Teste
 
-| ID | Cenário | Resultado |
-|---|---|---|
-| CT-001 | Login com credenciais válidas | ✅ |
-| CT-002 | Campos vazios | ✅ |
-| CT-003 | Senha inválida | ✅ |
-| CT-004 | Username inválido | ✅ |
-| CT-005 | Username com espaço antes | ✅ |
+| ID     | Cenário                       | Resultado |
+| ------ | ----------------------------- | --------- |
+| CT-001 | Login com credenciais válidas | ✅        |
+| CT-002 | Campos vazios                 | ✅        |
+| CT-003 | Senha inválida                | ✅        |
+| CT-004 | Username inválido             | ✅        |
+| CT-005 | Username com espaço antes     | ✅        |
 
 ---
 
