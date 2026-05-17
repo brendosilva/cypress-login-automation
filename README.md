@@ -1,3 +1,28 @@
+# 🧪 Cypress Login Automation
+
+> Projeto de automação de testes E2E para o fluxo de login da aplicação [Practice Test Automation](https://practicetestautomation.com/practice-test-login/).
+
+---
+
+### O que este projeto demonstra:
+
+- Automação E2E com **Cypress**
+- Cobertura de cenários críticos de autenticação
+- Identificação e documentação de **bugs reais**
+
+---
+
+## 🛠️ Stack Utilizada
+
+| Tecnologia                         | Função                      |
+| ---------------------------------- | --------------------------- |
+| [Cypress](https://www.cypress.io/) | Framework de automação E2E  |
+| JavaScript                         | Linguagem dos testes        |
+| Node.js                            | Ambiente de execução        |
+| Yarn                               | Gerenciador de dependências |
+
+---
+
 ## 🧪 Casos de Teste
 
 | ID     | Cenário                       | Resultado |
